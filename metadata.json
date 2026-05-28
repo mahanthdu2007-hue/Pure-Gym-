@@ -1,0 +1,8 @@
+{
+  "name": "Pure Gym Mysore",
+  "description": "Premium fitness experience in Mysore with expert trainers, scientific workouts, and modern equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
